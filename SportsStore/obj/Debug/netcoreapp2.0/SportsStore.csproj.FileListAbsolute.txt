@@ -1,0 +1,4 @@
+C:\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojResolveAssemblyReference.cache
+C:\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
